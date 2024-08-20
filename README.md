@@ -1,9 +1,5 @@
 
-<picture align="center">
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LysCiprianno/LysCiprianno/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LysCiprianno/v/output/github-contribution-grid-snake-dark.svg">
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LysCiprianno/LysCiprianno/output/github-contribution-grid-snake.svg">
-</picture>
+
  
 # Bem-vindo(a) ao Repositório da LysCiprianno! 🌟
 Olá! Sou a **Maria**, uma estudante apaixonada por tecnologia e entusiasta do desenvolvimento de software. Este repositório é um reflexo da minha jornada de aprendizado e crescimento no mundo da programação.
