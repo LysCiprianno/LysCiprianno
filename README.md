@@ -4,7 +4,9 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
 <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
- 
+
+  https://user-images.githubusercontent.com/122843056/222992067-f3d05bc4-769e-412b-9be1-00fa7356e74b.gif
+  
 # Bem-vindo(a) ao Repositório da LysCiprianno! 🌟
 Olá! Sou a **Maria**, uma estudante apaixonada por tecnologia e entusiasta do desenvolvimento de software. Este repositório é um reflexo da minha jornada de aprendizado e crescimento no mundo da programação.
  
