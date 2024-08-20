@@ -10,7 +10,7 @@ Olá! Sou a **Maria**, uma estudante apaixonada por tecnologia e entusiasta do d
  
 ![Hello Kitty](https://media.tenor.com/KCR6uHAlphkAAAAi/hello-kitty.gif)
  
- 
+
 ## Sobre Mim
 - 🎓 Estudante de Tecnologia em busca constante de novos conhecimentos.
 - 💻 Foco em desenvolvimento web, programação e soluções tecnológicas.
