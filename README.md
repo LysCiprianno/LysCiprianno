@@ -18,4 +18,5 @@ Olá! Sou a **Maria**, uma estudante apaixonada por tecnologia e entusiasta do d
 - 🎯 Metas: Contribuir para projetos que impactem positivamente a vida das pessoas e expandir minhas habilidades.
 ## Contribuições
 Estou sempre aberta a colaborações e feedback! Se você tiver alguma ideia ou quiser contribuir para algum dos meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Adoro trabalhar em equipe e aprender com outras pessoas.
+
 ✨ _“A tecnologia move o mundo, mas são as pessoas que fazem a diferença.”_ ✨
