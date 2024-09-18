@@ -1,1 +1,42 @@
-
+name: Show Hello Kitty Repo Count
+ 
+on:
+  schedule:
+    # A cada dia à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+ 
+jobs:
+  count_repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+ 
+      - name: Get repository count
+        id: get_repos
+        run: |
+REPO_COUNT=$(curl -s https://api.github.com/users/Lysciprianno/repos | jq '. | length')
+          echo "repo_count=$REPO_COUNT" >> $GITHUB_ENV
+ 
+      - name: Generate Hello Kitty output
+        run: |
+echo "## Hello Kitty diz: você tem ${{ env.repo_count }} repositórios!" > repos.md
+cat << "EOF" >> repos.md
+           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠤⠤⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⠒⠚⠉⠀⠀⠀⠀⠀⠀⠉⠙⠢⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠈⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠻⣿⡛⠛⠛⠋⠉⠙⠛⠋⠉⠙⠛⠛⠒⠶⢶⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠁⠀⠈⠻⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠑⢄⠀⠀⠀⠀⠀⠀⠀⠀⣠⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠒⠒⠒⠒⠒⠒⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          ⠀⠀⠀⠀⢀⣠⡴⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+          EOF
+          
+      - name: Commit and push changes
+        run: |
+git config --local user.email "actions@github.com"
+git config --local user.name "GitHub Action"
+git add repos.md
+          git commit -m "Update Hello Kitty Repo Count"
+          git push
