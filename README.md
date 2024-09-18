@@ -6,7 +6,7 @@
 </picture>
 
 # Bem-vindo(a) ao Repositório da LysCiprianno! 🌟
-Olá! Sou a **Maria**, uma estudante apaixonada por tecnologia e entusiasta do desenvolvimento de software. Este repositório é um reflexo da minha jornada de aprendizado e crescimento no mundo da programação.
+Olá! Sou a **Maria**, uma estudante apaixonada por tecnologia e entusiasta do desenvolvimento web. Este repositório é um reflexo da minha jornada de aprendizado e crescimento no mundo da programação.
 
 ![Hello Kitty](https://media.tenor.com/KCR6uHAlphkAAAAi/hello-kitty.gif)
  
