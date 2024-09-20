@@ -8,7 +8,7 @@
 # Bem-vindo(a) ao Repositório da LysCiprianno! 🌟
 Olá! Sou **Maria**, uma estudante apaixonada por tecnologia, design e desenvolvimento web. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
-![Hello Kitty](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl6dXRkZ25ueXQ4aWZuMGQ2dTlsM2V0bTFhMzh3ZGdtYzlwcmQ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/alTYgBq4cJBK00Op6x/giphy.webp)
+![Hello Kitty](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpxeXZxMGVkYXFoeWwycnllZThuZDhqbWNxbHkxdnQyMHJ4b3M1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fWr97UALmPSRHG4wYJ/giphy.webp)
 ## Sobre Mim
 - 🎓 Estudante de Tecnologia em busca constante de novos conhecimentos.
 - 💻 Foco em design, desenvolvimento web, programação e soluções tecnológicas.
