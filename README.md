@@ -1,6 +1,6 @@
 ![Hello Kitty](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpxeXZxMGVkYXFoeWwycnllZThuZDhqbWNxbHkxdnQyMHJ4b3M1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fWr97UALmPSRHG4wYJ/giphy.webp)
 
-# Bem-vindo(a) ao Repositório da LysCiprianno! 🌟
+# Bem-vindo(a) ao Repositório da LysCiprianno!
 Olá! Sou **Maria**, uma estudante apaixonada por tecnologia, design e desenvolvimento web. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 <picture align="center">
