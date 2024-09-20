@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/TOAYvUEsFQMAAAAi/hello-kitty.gif" alt="Hello Kitty">
 </div>
+
 # Bem-vindo(a) ao Repositório da LysCiprianno!
 Olá! Sou **Maria**, uma estudante apaixonada por tecnologia, design e desenvolvimento web. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
