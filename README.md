@@ -8,7 +8,7 @@
 # Bem-vindo(a) ao Repositório da LysCiprianno! 🌟
 Olá! Sou **Maria**, uma estudante apaixonada por tecnologia, design e desenvolvimento web. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
-![Hello Kitty]https://giphy.com/stickers/hellokitty-cute-hello-kitty-sanrio-SUDlY2gyDtd3lSFPKs
+![Hello Kitty](https://giphy.com/stickers/hellokitty-cute-hello-kitty-sanrio-SUDlY2gyDtd3lSFPKs)
  
 ## Sobre Mim
 - 🎓 Estudante de Tecnologia em busca constante de novos conhecimentos.
