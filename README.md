@@ -5,8 +5,8 @@
 </picture>
 
 <div align="center">
-  <h1>Bem-vindo(a) ao Repositório da LysCiprianno!
-Olá! Sou **Maria**, uma estudante apaixonada por tecnologia e design. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!<h1/>
+  <h4>Bem-vindo(a) ao Repositório da LysCiprianno!
+Olá! Sou Maria, uma estudante apaixonada por tecnologia e design. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!<h1/>
 </div>
 
 <div align="center">
