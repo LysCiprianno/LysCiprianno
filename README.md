@@ -4,14 +4,8 @@
 <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <h4>Bem-vindo(a) ao Repositório da LysCiprianno!
-Olá! Sou Maria, uma estudante apaixonada por tecnologia e design. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!<h1/>
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/TOAYvUEsFQMAAAAi/hello-kitty.gif" alt="Hello Kitty">
-</div>
+Bem-vindo(a) ao Repositório da LysCiprianno!
+Olá! Sou **Maria**, uma estudante apaixonada por tecnologia e design. Este repositório reflete minha jornada de aprendizado, combinando criatividade e programação para criar soluções inovadoras e funcionais. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 ## Sobre Mim
 - 🎓 Estudante de Tecnologia em busca constante de novos conhecimentos.
@@ -22,3 +16,8 @@ Olá! Sou Maria, uma estudante apaixonada por tecnologia e design. Este reposit�
 Estou sempre aberta a colaborações e feedback! Se você tiver alguma ideia ou quiser contribuir para algum dos meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Adoro trabalhar em equipe e aprender com outras pessoas.
 
 ✨ _“A rede humana precedeu a rede de computadores, conectando pessoas muito antes dos cabos e algoritmos."_ ✨
+
+<div align="center">
+  <img src="https://media.tenor.com/TOAYvUEsFQMAAAAi/hello-kitty.gif" alt="Hello Kitty">
+</div>
+
