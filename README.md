@@ -7,7 +7,7 @@
 ## Bem-vindo(a) ao Repositório da LysCiprianno! 🚀
  
 Olá! Sou **Maria**, estudante apaixonada por tecnologia e design, explorando o mundo low-code para criar soluções inovadoras de forma ágil e funcional. Este repositório reflete minha jornada, combinando criatividade e ferramentas Hábil.
-. 
+
 _Sinta-se à vontade para explorar e acompanhar meu progresso!_
  
 # Sobre Mim 
