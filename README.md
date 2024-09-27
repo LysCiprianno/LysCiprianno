@@ -15,7 +15,7 @@ _Sinta-se à vontade para explorar e acompanhar meu progresso!_
 
 💻 Foco em design, desenvolvimento web e plataformas low-code, como **OutSystems**, **Mendix**, e **Appian**, além de tecnologias tradicionais como **HTML**, **CSS** e **JavaScript**
 
-🌱 Aprimorando minhas habilidades para criar soluções rápidas e eficientes, explorando automação de processos e integração de dados com **Appian**.
+🌱 Aprimorando minhas habilidades para criar soluções rápidas e eficientes, explorando automação de processos.
 
 🎯 Objetivo: Contribuir para projetos que impactem positivamente e expandir minhas capacidades como desenvolvedora.
  
