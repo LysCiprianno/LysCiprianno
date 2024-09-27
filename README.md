@@ -12,8 +12,11 @@ _Sinta-se à vontade para explorar e acompanhar meu progresso!_
  
 # Sobre Mim 
 🎓 Estudante de Tecnologia, sempre em busca de novos conhecimentos e formas de simplificar o desenvolvimento. 
-💻 Foco em design, desenvolvimento web e plataformas low-code, como OutSystems, Mendix, e Appian, além de tecnologias tradicionais como HTML, CSS e JavaScript
-🌱 Aprimorando minhas habilidades para criar soluções rápidas e eficientes, explorando automação de processos e integração de dados com Appian.
+
+💻 Foco em design, desenvolvimento web e plataformas low-code, como **OutSystems**, **Mendix**, e **Appian**, além de tecnologias tradicionais como **HTML**, **CSS** e **JavaScript**
+
+🌱 Aprimorando minhas habilidades para criar soluções rápidas e eficientes, explorando automação de processos e integração de dados com **Appian**.
+
 🎯 Objetivo: Contribuir para projetos que impactem positivamente e expandir minhas capacidades como desenvolvedora.
  
 # Contribuições
