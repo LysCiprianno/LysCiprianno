@@ -4,6 +4,13 @@
 <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lysciprianno/lysciprianno/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LysCiprianno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LysCiprianno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 ## Bem-vindo(a) ao Repositório da LysCiprianno! 🚀
  
 Olá! Sou **Maria**, estudante apaixonada por tecnologia e design, explorando o mundo low-code para criar soluções inovadoras de forma ágil e funcional. Este repositório reflete minha jornada, combinando criatividade e ferramentas hábeis.
